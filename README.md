@@ -1,2 +1,2 @@
 ## Welcome!!
-## This is Git the Tutorials by Abhinav Kanduri
+## This is the git Tutorials by Abhinav Kanduri
